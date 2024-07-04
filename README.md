@@ -7,11 +7,30 @@
 ### packages used
 
 ```
+cd filename > npm install
+              npm i @reduxjs/toolkit react-redux react-router-dom appwrite react-hook-form
+              npm i @tinymce/tinymce-react
+              npm i html-react-parser
+              npm install -D tailwindcss postcss autoprefixer
+              npx tailwindcss init -p
 
-npm install
-npm i @reduxjs/toolkit react-redux react-router-dom appwrite react-hook-form
-npm i @tinymce/tinymce-react
-npm i html-react-parser
+```
+
+### add these to the index.css file
+
+```
+
+@tailwindcss base;
+@tailwindcss components;
+@tailwindcss utilities;
+
+```
+
+### add below configuration to tailwind config file
+
+```
+
+content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}",]
 
 ```
 

@@ -1,5 +1,5 @@
 /* eslint-disable no-useless-catch */
-import conf from "../config/conf.js";
+import conf from "../conf/conf.js";
 import { Client, Account, ID } from "appwrite";
 
 export class AuthService {
@@ -39,6 +39,7 @@ export class AuthService {
                   throw error;
             }
       }
+
       async getCurrentUser() {
             try {
                   return await this.account.get();
@@ -47,6 +48,7 @@ export class AuthService {
             }
             return null;
       }
+
       async logout() {
             try {
                   await this.account.deleteSessions();
