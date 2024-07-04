@@ -1,8 +1,10 @@
 # Blog Application using React.js (Vite)
 
-### - using AppWrite for backend services
+### using AppWrite for backend services
 
-### - packages used
+- [Appwrite-project](https://cloud.appwrite.io/console/project-66855cbb0005262a7099/overview/platforms)
+
+### packages used
 
 ```
 
