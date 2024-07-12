@@ -15,16 +15,16 @@
 ### packages used
 
 ```
-cd filename > npm install
-              npm i @reduxjs/toolkit react-redux react-router-dom appwrite react-hook-form
-              npm i @tinymce/tinymce-react
-              npm i html-react-parser
-              npm install -D tailwindcss postcss autoprefixer
+npm install
+npm i @reduxjs/toolkit react-redux react-router-dom appwrite react-hook-form
+npm i @tinymce/tinymce-react
+npm i html-react-parser
+npm install -D tailwindcss postcss autoprefixer
               npx tailwindcss init -p
 
 ```
 
-### add these to the index.css file
+### add below config to the index.css file
 
 ```
 
