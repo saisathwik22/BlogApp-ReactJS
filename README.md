@@ -8,7 +8,6 @@
 - Tailwind CSS
 - HTML
 - AppWrite
-  skdnfsfsd
 
 ### AppWrite Services - BACKEND
 
