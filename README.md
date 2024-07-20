@@ -1,11 +1,14 @@
 # Blog Application using React.js (Vite)
 
-## Technologies used 
+# Sai Sathwik
+
+## Technologies used
+
 - React.js
 - Vite
 - VS Code
 - Tailwind CSS
-- HTML 
+- HTML
 - AppWrite
 
 ### AppWrite Services
