@@ -1,7 +1,5 @@
 # Blog Application using React.js (Vite)
 
-# Sai Sathwik
-
 ## Technologies used
 
 - React.js
