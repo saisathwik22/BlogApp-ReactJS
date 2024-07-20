@@ -1,7 +1,5 @@
 # Blog Application using React.js (Vite)
 
-### test commits and stuff...
-
 ## Technologies used
 
 - React.js
