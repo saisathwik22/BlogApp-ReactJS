@@ -9,9 +9,9 @@
 - HTML
 - AppWrite
 
-### AppWrite Services
+### AppWrite Services - BACKEND
 
-- [appwrite](https://cloud.appwrite.io/console/project-66855cbb0005262a7099/overview/platforms) used for backend services of this project.
+- [appwrite](https://cloud.appwrite.io/console/organization-6682d0da00151ac949ef) used for backend services of this project.
 
 ### packages used
 
@@ -21,7 +21,7 @@ npm i @reduxjs/toolkit react-redux react-router-dom appwrite react-hook-form
 npm i @tinymce/tinymce-react
 npm i html-react-parser
 npm install -D tailwindcss postcss autoprefixer
-              npx tailwindcss init -p
+npx tailwindcss init -p
 
 ```
 
